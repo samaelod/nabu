@@ -1,0 +1,5 @@
+{
+  "log_lines": 1000,
+  "logs_dir": "logs",
+  "recent_dir": "recent"
+}
